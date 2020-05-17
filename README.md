@@ -2,9 +2,10 @@
 Just a node
 
 
-####印象笔记
+【印象笔记】
 
-工作问题记录
-学习，反思，总结！
+问题记录，反思总结，领域创新！
+
+https://github.com/zrj-coder/hello-node
 
 
