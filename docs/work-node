@@ -1,0 +1,26 @@
+#############################
+印象笔记
+#############################
+
+一、项目问题相关
+
+1、项目构建-脚手架
+    #ssbmp-domain-archetype必须采用idea->Terminal打开
+2、构建完成需要调整事项
+    #创建Gradle项目优先选取gradle-wrapper.jar，避免gradle版本不兼容问题
+    #build.gradle依赖调整
+    #gradle.properties配置
+
+
+
+二、DDD领域驱动设计相关
+
+
+
+三、其他
+
+
+
+
+
+
